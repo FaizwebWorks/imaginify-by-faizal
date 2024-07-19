@@ -374,3 +374,9 @@
   font-weight: 600;
   color: #384262;
 }
+
+.sheet-content svg{
+  height: 1.8rem;
+  width: 1.8rem;
+  margin-top: 3px;
+}
